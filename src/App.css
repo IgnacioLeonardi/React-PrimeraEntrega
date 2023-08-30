@@ -11,3 +11,50 @@
     text-align: center;
     padding-top: 15px;
 }
+.divDetail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttonCard{
+    margin: 10px !important;
+    color: rgb(219, 87, 25);
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px !important;
+    width: 50px;
+}
+.imgCard{
+    justify-content: center;
+    width: 2rem;
+}
+.card-header{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.card-header img{
+    overflow: auto;
+}
+.cardProduct{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.imgLoading{
+    display: flex;
+    justify-content: center;
+}
+.imgLoading img{
+    width: 40px;
+    padding-top: 1rem;
+}
+.cardProductDetail{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: center;
+}
+.active{
+    color: rgb(219, 87, 25);
+}

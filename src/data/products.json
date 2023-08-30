@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Coca-Cola",
+        "category": "Bebidas",
+        "price": 620,
+        "image": "https://carrefourar.vtexassets.com/arquivos/ids/332157/7790895000997_E02.jpg?v=638211437436200000",
+        "stock": 15
+    },
+    {
+        "id": "2",
+        "name": "Galletitas",
+        "category": "Comestibles",
+        "price": 450,
+        "image": "https://www.deliargentina.com/image/cache/catalog/product/alimentacion/criollitas-galletitas-bagley/criollitas-galletitas-bagley-600x600.jpg",
+        "stock": 8
+    },
+    {
+        "id": "3",
+        "name": "Jugo",
+        "category": "Bebidas",
+        "price": 300,
+        "image": "https://carrefourar.vtexassets.com/arquivos/ids/275270/7790895641800_E02.jpg?v=638126760586900000",
+        "stock": 30
+    },
+    {
+        "id": "4",
+        "name": "Papel Higienico",
+        "category": "Higiene",
+        "price": 1200,
+        "image": "https://promolimpieza.com/351-large_default/papel-higienico-elite-ultra-doble-hoja-4-x-30-mts.jpg",
+        "stock": 7
+    },
+    {
+        "id": "5",
+        "name": "Fernet",
+        "category": "Bebidas",
+        "price": 2000,
+        "image": "https://carrefourar.vtexassets.com/arquivos/ids/226775/7790290101602_02.jpg?v=637715449494370000",
+        "stock": 6
+    },
+    {
+        "id": "6",
+        "name": "Salsa Criolla",
+        "category": "Comestibles",
+        "price": 730,
+        "image": "https://cdn11.bigcommerce.com/s-abmjjefojj/images/stencil/1280x1280/products/2808/12598/La-Parmesana-Salsa-Criolla-Argentina_Select-1000x1000__71639.1603474739.jpg?c=1",
+        "stock": 15
+    },
+    {
+        "id": "7",
+        "name": "Cerveza",
+        "category": "Bebidas",
+        "price": 700,
+        "image": "https://hiperlibertad.vtexassets.com/arquivos/ids/155975-800-auto?v=637236235973730000&width=800&height=auto&aspect=true",
+        "stock": 50
+    },
+    {
+        "id": "8",
+        "name": "Mayonesa",
+        "category": "Comestibles",
+        "price": 900,
+        "image": "https://carrefourar.vtexassets.com/arquivos/ids/359574/7791866001364_E02.jpg?v=638258195873930000",
+        "stock": 10
+    },
+    {
+        "id": "9",
+        "name": "Azucar",
+        "category": "Comestibles",
+        "price": 500,
+        "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/170462/Az-car-Fronterita-1-Kg-1-5359.jpg?v=637860873698830000",
+        "stock": 20
+    },
+    {
+        "id": "10",
+        "name": "Desodorante",
+        "category": "Higiene",
+        "price": 650,
+        "image": "https://www.vassallo.com.ar/11986-large_default/rexona-deo-aer-men-invisib-x90.jpg",
+        "stock": 11
+    }
+]
