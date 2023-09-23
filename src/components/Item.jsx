@@ -14,4 +14,5 @@ export const Item = ({product}) => (
         </Link>
       </Card.Body>
     </Card>
+    
 )
